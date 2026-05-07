@@ -350,7 +350,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "b59b8a8f-c712-4747-93a1-bf8d3d97d005";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
+<script>window.ZAPPY_WEBSITE_ID = "b59b8a8f-c712-4747-93a1-bf8d3d97d005";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -830,12 +830,12 @@
 </script>
   
   <main>
-    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
+    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section">
   <!-- Background Image -->
-  <img data-hero-bg="true" class="hero-bg-img" data-placeholder="index-hero-image-1" data-context="Dramatic comic book store interior at night, illuminated wooden shelves packed with graphic novels and trade paperbacks, glass display cases with collectible action figures and statues, neon magenta and cyan light reflections on glossy surfaces, moody atmospheric lighting, premium collector vault aesthetic, cinematic wide angle, dark ambient photography" width="1440" height="900" src="/assets/site-index-hero-image-1.webp" alt="חנות קומיקס פאנל פלוס — פנים החנות בלילה עם מדפים מוארים וקולקציות">
+  <img data-hero-bg="true" class="hero-bg-img" data-placeholder="index-hero-image-1" data-context="Dramatic comic book store interior at night, illuminated wooden shelves packed with graphic novels and trade paperbacks, glass display cases with collectible action figures and statues, neon magenta and cyan light reflections on glossy surfaces, moody atmospheric lighting, premium collector vault aesthetic, cinematic wide angle, dark ambient photography" width="1440" height="900" src="/assets/site-index-hero-image-1.webp" alt="חנות קומיקס פאנל פלוס — פנים החנות בלילה עם מדפים מוארים וקולקציות" data-hero-background="true" data-element-type="image" data-element-id="img-1778189736327-r3cade0r0">
 
   <!-- Decorative: pink glow orb -->
-  <div class="hero-orb-pink" aria-hidden="true"></div>
+  <div class="hero-orb-pink" aria-hidden="true" style="font-size: 16px;"></div>
 
   <!-- Decorative: neon grid overlay -->
   <svg class="hero-neon-grid" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 800 600" preserveAspectRatio="xMaxYMax meet" xmlns="http://www.w3.org/2000/svg">
@@ -861,29 +861,29 @@
   </svg>
 
   <!-- Scrim overlay -->
-  <div class="hero-scrim" aria-hidden="true"></div>
+  <div class="hero-scrim" aria-hidden="true" style="font-size: 16px;"></div>
 
   <!-- Content overlay -->
-  <div class="hero-content-wrapper">
-    <div class="hero-content">
+  <div class="hero-content-wrapper" style="font-size: 16px;">
+    <div class="hero-content" style="font-size: 16px;">
 
       <!-- Pre-label -->
-      <div class="hero-label">קומיקס · מנגה · תרבות פופ</div>
+      <div class="hero-label" style="font-size: 11.52px;">קומיקס · מנגה · תרבות פופ</div>
 
       <!-- H1 -->
-      <h1 class="hero-h1">הכנס לעולם<br><span class="hero-h1-accent">פאנל פלוס</span></h1>
+      <h1 class="hero-h1" style="font-size: 28px;">הכנס לעולם<br><span class="hero-h1-accent" style="color: rgb(17, 19, 24) !important; font-size: 28px;">פאנל פלוס</span></h1>
 
       <!-- Subtitle -->
-      <h3 class="hero-subtitle">אוסף מאוצר של ספרי קומיקס, גרפיק נובלז ואספנות פופ קאלצ'ר — לאוהבי הז'אנר ולמי שרק מתחיל את המסע.</h3>
+      <h3 class="hero-subtitle" style="font-size: 20px;">אוסף מאוצר של ספרי קומיקס, גרפיק נובלז ואספנות פופ קאלצ'ר&nbsp;<span style="font-weight: 400; letter-spacing: 0.02em;">— לאוהבי הז'אנר ולמי שרק מתחיל את המסע.</span></h3>
 
       <!-- CTA Buttons -->
-      <div class="hero-ctas">
-        <a href="/contact" class="hero-btn-primary">
-          <span>צרו קשר</span>
+      <div class="hero-ctas" style="font-size: 16px;">
+        <a href="/contact" class="hero-btn-primary" data-element-type="button" data-element-id="btn-1778189736315-omkzo7o8u" data-native-element="true" style="font-size: 14.4px;">
+          <span style="font-size: 14.4px;">צרו קשר</span>
           <i class="fa fa-arrow-left" aria-hidden="true"></i>
         </a>
-        <a href="/experience" class="hero-btn-secondary">
-          <span>גלו את החנות</span>
+        <a href="/experience" class="hero-btn-secondary" data-element-type="button" data-element-id="btn-1778189736315-ga6m614sh" data-native-element="true" style="font-size: 14.4px;">
+          <span style="font-size: 14.4px;">גלו את החנות</span>
         </a>
       </div>
 
@@ -891,7 +891,7 @@
   </div>
 
   <!-- Bottom divider: diagonal neon-glow fade -->
-  <div class="hero-divider-wrapper">
+  <div class="hero-divider-wrapper" style="font-size: 16px;">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 90" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="hero-divider-glow" x1="0" y1="0" x2="1" y2="0">
