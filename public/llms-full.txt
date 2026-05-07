@@ -2,13 +2,13 @@
 
 A comic book store with a passion for the world of comics, graphic novels, and pop culture. The brand likely carries a vibrant, creative, and enthusiastic energy that appeals to fans of superheroes, manga, indie comics, and beyond. The store aims to be a destination for collectors and casual readers alike, celebrating the art and storytelling of the comic medium.
 
-Source: https://-b59b8a8f.zappy5.app
+Source: https://example.com
 
 ---
 
 ## פאנל פלוס קומיקס — פאנל פלוס
 
-URL: https://-b59b8a8f.zappy5.app
+URL: https://example.com
 Description: A comic book store with a passion for the world of comics, graphic novels, and pop culture. The brand likely carries a vibrant, creative, and enthusiastic energ
 
 פאנל פלוס קומיקס — פאנל פלוס
@@ -619,7 +619,7 @@ PANEL+
 
 ## ניסיון — פאנל פלוס
 
-URL: https://-b59b8a8f.zappy5.app/experience
+URL: https://example.com/experience
 Description: ניסיון | פאנל פלוס. פאנל פלוס קומיקס
 
 ניסיון — פאנל פלוס
@@ -1186,7 +1186,7 @@ PANEL+
 
 ## אודות — פאנל פלוס
 
-URL: https://-b59b8a8f.zappy5.app/about
+URL: https://example.com/about
 Description: אודות | פאנל פלוס. פאנל פלוס קומיקס
 
 אודות — פאנל פלוס
@@ -1674,7 +1674,7 @@ PANEL+
 
 ## צור קשר — פאנל פלוס
 
-URL: https://-b59b8a8f.zappy5.app/contact
+URL: https://example.com/contact
 Description: צור קשר | פאנל פלוס. פאנל פלוס קומיקס
 
 צור קשר — פאנל פלוס
@@ -2353,7 +2353,7 @@ PANEL+
 
 ## מוצרים
 
-URL: https://-b59b8a8f.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - פאנל פלוס
 
 מוצרים - פאנל פלוס
@@ -2603,7 +2603,7 @@ PANEL+
 
 ## עגלת קניות
 
-URL: https://-b59b8a8f.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - פאנל פלוס
@@ -2829,7 +2829,7 @@ PANEL+
 
 ## תשלום
 
-URL: https://-b59b8a8f.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - פאנל פלוס
@@ -3238,7 +3238,7 @@ PANEL+
 
 ## התחברות
 
-URL: https://-b59b8a8f.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - פאנל פלוס
@@ -3471,7 +3471,7 @@ PANEL+
 
 ## החשבון שלי
 
-URL: https://-b59b8a8f.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - פאנל פלוס
@@ -3859,7 +3859,7 @@ PANEL+
 
 ## ההזמנה התקבלה!
 
-URL: https://-b59b8a8f.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - פאנל פלוס
@@ -4109,7 +4109,7 @@ PANEL+
 
 ## מדיניות החזרות
 
-URL: https://-b59b8a8f.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - פאנל פלוס
@@ -4388,7 +4388,7 @@ PANEL+
 
 ## פרטי המוצר
 
-URL: https://-b59b8a8f.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - פאנל פלוס
 
 פרטי המוצר - פאנל פלוס
@@ -4616,7 +4616,7 @@ PANEL+
 
 ## מוצרים
 
-URL: https://-b59b8a8f.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - פאנל פלוס
 
 מוצרים - פאנל פלוס
@@ -4868,7 +4868,7 @@ PANEL+
 
 ## מדיניות פרטיות
 
-URL: https://-b59b8a8f.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5139,7 +5139,7 @@ PANEL+
 
 ## הצהרת נגישות
 
-URL: https://-b59b8a8f.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5419,7 +5419,7 @@ PANEL+
 
 ## תנאי שימוש
 
-URL: https://-b59b8a8f.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
