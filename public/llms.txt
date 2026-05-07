@@ -1,0 +1,100 @@
+# פאנל פלוס — Generative Engine Optimization Map
+
+> A comic book store with a passion for the world of comics, graphic novels, and pop culture. The brand likely carries a vibrant, creative, and enthusiastic energy that appeals to fans of superheroes, manga, indie comics, and beyond. The store aims to be a destination for collectors and casual readers alike, celebrating the art and storytelling of the comic medium.
+
+---
+
+## Pages
+
+### בית
+https://-b59b8a8f.zappy5.app
+A comic book store with a passion for the world of comics, graphic novels, and pop culture. The brand likely carries a vibrant, creative, and enthusiastic energ
+
+### ניסיון
+https://-b59b8a8f.zappy5.app/experience
+ניסיון | פאנל פלוס. פאנל פלוס קומיקס
+
+### אודות
+https://-b59b8a8f.zappy5.app/about
+אודות | פאנל פלוס. פאנל פלוס קומיקס
+
+### צור קשר
+https://-b59b8a8f.zappy5.app/contact
+צור קשר | פאנל פלוס. פאנל פלוס קומיקס
+
+### Products
+https://-b59b8a8f.zappy5.app/products
+המוצרים שלנו - פאנל פלוס
+
+### Cart
+https://-b59b8a8f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-b59b8a8f.zappy5.app/checkout
+תשלום
+
+### Login
+https://-b59b8a8f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-b59b8a8f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-b59b8a8f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-b59b8a8f.zappy5.app/product/:slug
+פרטי המוצר - פאנל פלוס
+
+### Category
+https://-b59b8a8f.zappy5.app/category/:slug
+מוצרים - פאנל פלוס
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b59b8a8f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b59b8a8f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b59b8a8f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פאנל פלוס
+A comic book store with a passion for the world of comics, graphic novels, and pop culture. The brand likely carries a vibrant, creative, and enthusiastic energy that appeals to fans of superheroes, manga, indie comics, and beyond. The store aims to be a destination for collectors and casual readers alike, celebrating the art and storytelling of the comic medium.
+
+## Target Audience
+- חובבי קומיקס מושבעים
+- חובבי תרבות פופ
+- קוראי צעירים
+
+## Industry
+קמעונאות / תרבות פופ
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b59b8a8f.zappy5.app/sitemap.xml
+- Robots: https://-b59b8a8f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b59b8a8f.zappy5.app/llms-full.txt
+- Products (JSON): https://-b59b8a8f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-b59b8a8f.zappy5.app/product-feed.xml
